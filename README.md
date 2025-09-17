@@ -90,6 +90,8 @@ An Android anime discovery app built with Jetpack Compose that displays top anim
 - Android Studio Arctic Fox or later
 - Minimum SDK 24 (Android 7.0)
 - Internet connection for API access
+Notes:
+- Compile SDK: 36 — ensure Android SDK API 36 is installed before building.
 
 ### Installation
 1. Clone the repository
